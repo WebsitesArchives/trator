@@ -1,5 +1,3 @@
-# trator
-
 <h1 align="center">trator</h1>
 
 <p align="center">Car Rent For You Template from Themewagon</p>
